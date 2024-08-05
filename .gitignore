@@ -1,0 +1,43 @@
+# Node modules directory
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+.env.*.local
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Miscellaneous
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# npm package lock
+package-lock.json
+yarn.lock
+
+# Jest coverage directory
+coverage/
+
+# ESLint cache
+eslintcache/
+
+# Next.js specific
+.next/
+out/
